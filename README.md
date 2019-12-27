@@ -1,4 +1,4 @@
-# Predicting-Divorce-Based-on-54-Questions
+# Predicting Divorce Based on 54 Questions
 
 This project explores the questions to a survey whose 170 rows of data are accessible at the UCI Machine Learning Repository:
 
