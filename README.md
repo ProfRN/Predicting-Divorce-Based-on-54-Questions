@@ -11,4 +11,4 @@ Notes on the data:
 https://archive.ics.uci.edu/ml/datasets/Divorce+Predictors+data+set#
 - Responses are recorded in values of 0-4, where 0 is the least likely, and 4 is the most.
 - The "Class" column indicates divorce status: "0" for married, and "1" for divorced.
-- The metadata was provided by a Turkish academic study. Some meaning appears to have been lost in translation.
+- The metadata was provided by a Turkish academic study.
