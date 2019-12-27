@@ -4,7 +4,7 @@ This project explores the questions to a survey whose 170 rows of data are acces
 
 https://archive.ics.uci.edu/ml/datasets/Divorce+Predictors+data+set#
 
-In the form of 54 questions on the attitudes behaviors, and values held by individuals in a marriage, researchers examined the lives of married couples. After a period, these same individuals were again surveyed to ask if they had remained in the same marriage or exited. Their responses are the target feature for this project's model training and testing.
+In the form of 54 questions on the attitudes, behaviors, and values held by individuals in a marriage, researchers examined the lives of married couples. After a period, these same individuals were again surveyed to ask if they had remained in the same marriage or exited. Their responses are the target feature for this project's model training and testing.
 
 Notes on the data:
 - Each column is summarized by its question number by name. All full questions are available on the UCI repository:
